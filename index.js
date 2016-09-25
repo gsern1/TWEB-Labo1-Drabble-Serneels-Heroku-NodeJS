@@ -2,7 +2,7 @@
   * Project : TWEB labo 1
   * Author : Antoine Drabble & Guillaume Serneels
   * Date : 25.09.2016
-  * Description : 
+  * Description : simple node web-app displaying the index.html page
   *
 */
 var express = require('express');
