@@ -1,12 +1,12 @@
 {
-  "name": "nodejsapp",
+  "name": "TWEB_Labo_heroku",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Github data visualization webapp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Antoine Drabble & Guillaume Serneels",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
